@@ -1,0 +1,14 @@
+{
+  "comment": "Database connection settings for Cloud-Based Placement Management System",
+  "active_database": "auto",
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "placement_db"
+  },
+  "sqlite": {
+    "file": "runner/placement_demo.db"
+  }
+}
